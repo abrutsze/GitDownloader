@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="repository">Repository:</string>
+    <string name="user">User:</string>
+    <string name="branch">Branch:</string>
+    <string name="noDownloadFound">Downloaded branch not found</string>
+</resources>
